@@ -50,6 +50,3 @@ Room for improvement:
 To do:
 - Fix DeepQlearning algorithm
 
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
